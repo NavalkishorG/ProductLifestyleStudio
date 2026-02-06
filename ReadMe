@@ -1,0 +1,20 @@
+
+git clone --recurse-submodules https://github.com/YOURUSERNAME/ProductLifestyleStudio.git
+
+
+after cloning
+git submodule update --init --recursive
+
+
+
+
+
+
+git submodule add https://github.com/NavalkishorG/backend.git
+
+
+git submodule add https://github.com/NavalkishorG/lifestyle-image-generator.git
+
+
+
+git submodule add https://github.com/NavalkishorG/lifestyle-video-generator.git

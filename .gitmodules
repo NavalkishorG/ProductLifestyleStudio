@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/NavalkishorG/backend.git
+[submodule "lifestyle-image-generator"]
+	path = lifestyle-image-generator
+	url = https://github.com/NavalkishorG/lifestyle-image-generator.git
+[submodule "lifestyle-video-generator"]
+	path = lifestyle-video-generator
+	url = https://github.com/NavalkishorG/lifestyle-video-generator.git
